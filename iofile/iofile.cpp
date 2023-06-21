@@ -9,4 +9,6 @@ int main() {
 
 	// membuka file dalam mode menulis
 	ofstream outfile;
+
+	cout << ">= Menulis file, \'q' untuk keluar" << endl;
 }
