@@ -15,4 +15,6 @@ int main() {
 		// jika selain integer maka block ini akan di eksekusi
 		cout << " Default pengecualian di eksekusi" << endl;
 	}
+
+	return 0;
 }
